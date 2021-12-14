@@ -1,5 +1,5 @@
 I'm highly intrigued by Artificial Intelligence (AI) and the role it plays in solving customer problems.
-I’m currently pursuing my Master's degree in AI.
+I’m currently pursuing my Master's degree in AI to fuel my curiosity.
 
 I’m looking to collaborate and gain a better understanding of Machine Learning, Deep Learning, and increase my competency and knowledge in this niche field. I seek to build intuition, gather valuable insights, build and recommend products, identify hidden patterns, and predict trends by leveraging artificial intelligence advancements.
 
