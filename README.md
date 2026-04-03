@@ -7,6 +7,11 @@ I work on clinical AI systems at Cohere Health and conduct
 independent research in natural language processing, machine 
 learning, and deep learning.
 
+## Education
+
+- M.E. Artificial Intelligence (4.0 GPA) — University of Cincinnati
+- B.E. Information Technology — Netaji Subhas Institute of Technology, University of Delhi
+
 ## Research
 
 - **LLM Judge Reliability** — empirical study of how judge 
