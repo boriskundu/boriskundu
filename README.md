@@ -14,8 +14,7 @@ learning, and deep learning.
 
 ## Research
 
-- **LLM Judge Reliability** — empirical study of how judge 
-  reliability degrades across context lengths (arXiv 2026)
+- **LLM Judge Reliability** — Empirical study
 - **Computer Vision** — Springer LNCS, Advances in Visual 
   Computing 2009
   https://link.springer.com/chapter/10.1007/978-3-642-03547-0_28
