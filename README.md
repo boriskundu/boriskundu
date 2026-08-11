@@ -14,7 +14,10 @@ learning, and deep learning.
 
 ## Research
 
-- **LLM Judge Reliability** — Empirical study
+- **LLM Judge Reliability Degrades Unevenly With Context: A Cross-Model Empirical Study** —
+  Accepted (Poster), GSCL KONVENS 2026 Workshop on Evaluation of Language Models for
+  Specialized Domains (Eval4SD).
+  https://github.com/boriskundu/llm-as-judges-comparison
 - **Computer Vision** — Springer LNCS, Advances in Visual 
   Computing 2009
   https://link.springer.com/chapter/10.1007/978-3-642-03547-0_28
