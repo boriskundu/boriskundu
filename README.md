@@ -15,8 +15,8 @@ learning, and deep learning.
 ## Research
 
 - **LLM Judge Reliability Degrades Unevenly With Context: A Cross-Model Empirical Study** —
-  Accepted (Poster), GSCL KONVENS 2026 Workshop on Evaluation of Language Models for
-  Specialized Domains (Eval4SD).
+  Accepted (Poster), First Workshop on Evaluating LLMs for Specialized Domains
+  (Eval4SD), GSCL KONVENS 2026.
   https://github.com/boriskundu/llm-as-judges-comparison
 - **Computer Vision** — Springer LNCS, Advances in Visual 
   Computing 2009
